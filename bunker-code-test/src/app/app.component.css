@@ -1,0 +1,27 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.main-container > p > .btn {
+  margin: 5px 0;
+}
+
+.main-container {
+    padding-top: 60px;
+}
+
+.main-container .navbar .container {
+  width: auto;
+}
+
+.navbar-nav>li {
+    width: 100px;
+    text-align: center;
+}
+
+.navbar-nav>li>a.nav-link-active {
+    color: white;
+    font-weight: bold;
+    background: black;
+}
