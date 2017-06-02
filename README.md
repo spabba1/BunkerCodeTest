@@ -14,7 +14,7 @@ Thanks for your interest in working with use at Bunker! This is a simple code te
 - This is an Angular CLI project in TypeScript. It must be able to be built and run with Angular CLI.
 - [Angular CLI](https://www.npmjs.com/package/angular-cli) and its prerequisites (Node 4 or higher, NPM 3 or higher) 
 - A **Git** client
-- An IDE to work in. We recommend [Visual Studio Code](https://code.visualstudio.com/)
+- An IDE to work in. We recommend [Visual Studio Code](https://code.visualstudio.com/).
 ## Guidelines
 - Don't worry. This code test is just one part of how we'll get to know you. We're not going to judge you entirely based on whether you did or did not do a particular thing in this test. We just want a sense of how you work.
 - Don't overdo it. This shouldn't take more than a few hours, tops. The task is simple, so the solution should be simple as well. Use good structure and good practices, but it doesn't need to be gold-plated.
