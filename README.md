@@ -23,3 +23,4 @@ Thanks for your interest in working with use at Bunker! This is a simple code te
     - If you struggle with something then figure it out **do** make a note of it and tell us about it. We love hearing how people work through things.
     - If you struggle with something and can't figure it out, it's fine to email your contact at Bunker and ask about it - particularly if instructions are incorrect or unclear, or of something is broken
 - Have fun. We love writing code, and we hope you do too. Feel free to get creative, if you like.
+- Researching things online is encouraged. 
