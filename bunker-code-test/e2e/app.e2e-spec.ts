@@ -1,6 +1,6 @@
 import { BunkerCodeTestPage } from './app.po';
 
-describe('bunker-code-test App', () => {
+describe('bunker-code-test App', function() {
   let page: BunkerCodeTestPage;
 
   beforeEach(() => {
