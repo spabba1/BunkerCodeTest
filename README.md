@@ -2,7 +2,7 @@
 Thanks for your interest in working with use at Bunker! This is a simple code test. The purpose is to let us get an idea of how you do things. The test consists of adding a simple form to an Angular project, submitting it, and displaying a result.
 
 ## Tasks
-- Clone this repository, and **make a branch off of the *develop* branch** to work in
+- Clone this repository, and **make a branch off of the *develop* branch** to work in. Name the branch so we'll know it's yours when you check it in.
 - Add a component with a form to collect the following data:
     - First Name (string)
     - Last Name (string)
@@ -22,5 +22,6 @@ Thanks for your interest in working with use at Bunker! This is a simple code te
 - Don't spend a lot of time trying to make the page pretty, we're more interested in pretty code right now.
 - If you have questions, first try working them out on your own. Part of what we're looking for is how you solve problems. 
     - If you struggle with something then figure it out **do** make a note of it and tell us about it. We love hearing how people work through things.
-    - If you struggle with something and can't figure it out, it's fine to email your contact at Bunker and ask about it - particularly if instructions aren incorrect or unclear, or of something is broken
+    - If you struggle with something and can't figure it out, it's fine to email your contact at Bunker and ask about it - particularly if instructions are incorrect or unclear, or of something is broken
 - Have fun. We love writing code, and we hope you do too. Feel free to get creative, if you like.
+- Researching things online is encouraged. 
