@@ -2,14 +2,16 @@
 Thanks for your interest in working with use at Bunker! This is a simple code test. The purpose is to let us get an idea of how you do things. The test consists of adding a simple form to an Angular project, submitting it, and displaying a result.
 
 ## Tasks
-- Clone this repository, and **make a branch off of the *develop* branch** to work in. Name the branch so we'll know it's yours when you check it in.
+- Create a GitHub account, if you don't already have one.
+- Fork this repository.
+- Clone your fork locally, and **make a branch off of the *develop* branch** to work in.
 - Add a component with a form to collect the following data:
     - First Name (string)
     - Last Name (string)
     - Favorite Color (string)
 - Write code to submit the data from the form to the *people/add* endpoint of  [this API](https://bunkerdev.portal.azure-api.net/docs/services/59319e778c574311ec995ca4/operations/59319f658c574311ec995ca5). See the API documentation for information on the payload to post and the structure of the response.
 - Display the resulting data in the component
-- When finished **submit a pull request** back to the repository
+- When finished **submit a pull request** back to the original repository's develop branch. [How to submit a pull request for a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 ## Prerequisites
 - This is an Angular CLI project in TypeScript. It must be able to be built and run with Angular CLI.
 - [Angular CLI](https://www.npmjs.com/package/angular-cli) and its prerequisites (Node 4 or higher, NPM 3 or higher) 
