@@ -7,12 +7,15 @@ import { RoutingModule } from './routing/routing.module';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
+//import {FormService} from './form/form.service';
+import { FormComponent } from './form/form.component';
 import { InstructionsComponent } from './instructions/instructions.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
+    FormComponent,
     InstructionsComponent
   ],
   imports: [
@@ -21,7 +24,8 @@ import { InstructionsComponent } from './instructions/instructions.component';
     FormsModule,
     HttpModule
   ],
-  providers: [],
+  providers:[FormComponent],
+  //providers: [FormService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

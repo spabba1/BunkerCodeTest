@@ -1,0 +1,29 @@
+<h2>Welcome to the Bunker Code Test!</h2>
+
+<body ng-app="agpapp" ng-controller="agpctrl"> 
+<div class="container">
+    <h1>Data Form</h1>
+    <form method="POST" ng-submit="postdetails(firstName,lastName,color)">
+      <div class="form-group">
+        <label for="firstName">FirstName</label>
+        <input type="text" class="form-control" [(ngModel)]="firstName"  id="firstName" required>
+      </div>
+      <div class="form-group">
+        <label for="lastName">Last Name</label>
+        <input type="text" class="form-control" [(ngModel)]="lastName" id="lastName">
+      </div>
+      <div class="form-group">
+        <label for="color">color</label>
+        <input type="text" class="form-control"  [(ngModel)]="color" id="color">//inputdata is for ajax call
+      </div>
+      <button type="submit" class="btn btn-success" (click)="postdetails(firstName,lastName,color)">Submit</button>
+    </form>
+</div>
+</body>
+
+//it can also be done using ajax calls or using factory class
+<script>
+ 
+    
+  </script>
+
